@@ -1,0 +1,93 @@
+# Major online retailers
+amazon.com
+walmart.com
+target.com
+bestbuy.com
+ebay.com
+costco.com
+newegg.com
+unimart.com
+efastonline.com
+aliexpress.com
+tiendasekono.com
+libreriainternacional.com
+
+# Clothing & Fashion
+macys.com
+nordstrom.com
+bloomingdales.com
+saksfifthavenue.com
+asos.com
+shein.com
+hm.com
+urbanoutfitters.com
+gap.com
+oldnavy.com
+uniqlo.com
+zara.com
+tiendaspls.com
+tiendasfusion.com
+tiendasplx.com
+siman.com
+bebasicclothing.com
+kicks.cr
+tiendalaliga.cr
+stormxstudios.com
+revival-streetwear.com
+malavidacr.com
+
+
+# Shoes & Accessories
+nike.com
+adidas.com
+puma.com
+footlocker.com
+dsw.com
+zappos.com
+onnaturalsunglasses.com
+
+# Beauty & Skincare
+sephora.com
+ulta.com
+glossier.com
+elfcosmetics.com
+fentybeauty.com
+essenzaperfumes.cr
+eclipseperfumes.cr
+perfumeriaonlinex.com
+
+# Electronics & Gadgets
+apple.com
+samsung.com
+dell.com
+hp.com
+lenovo.com
+razer.com
+logitech.com
+bose.com
+sonos.com
+dokanmarketplace.com
+store.playstation.com
+nintendo.com
+holacompras.com
+
+# Home & Furniture
+ikea.com
+wayfair.com
+westelm.com
+cb2.com
+overstock.com
+
+# Discount & Outlet Stores
+jomashop.com
+tjmaxx.tjx.com
+marshalls.com
+rossstores.com
+burlington.com
+gilt.com
+
+# Subscription & Specialty Retailers
+etsy.com
+crateandbarrel.com
+shutterfly.com
+redbubble.com
