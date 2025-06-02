@@ -1,16 +1,16 @@
 # Major online retailers
-amazon.com
-walmart.com
-target.com
-bestbuy.com
-ebay.com
-costco.com
-newegg.com
-unimart.com
-efastonline.com
-aliexpress.com
-tiendasekono.com
-libreriainternacional.com
+www.amazon.com
+www.walmart.com
+www.target.com
+www.bestbuy.com
+www.ebay.com
+www.costco.com
+www.newegg.com
+www.unimart.com
+www.efastonline.com
+www.aliexpress.com
+www.tiendasekono.com
+www.libreriainternacional.com
 
 # Clothing & Fashion
 macys.com
