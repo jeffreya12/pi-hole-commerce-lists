@@ -79,7 +79,7 @@ cb2.com
 overstock.com
 
 # Discount & Outlet Stores
-jomashop.com
+www.jomashop.com
 tjmaxx.tjx.com
 marshalls.com
 rossstores.com
